@@ -16,6 +16,7 @@
     "with",
     "node"
   ],
+  "homepage": "https://github.com/chirag97/adonis-datatables",
   "author": "Chirag Chaudhari <chiragchaudhari97@gmail.com> (http://chiragchaudhari.com)",
   "license": "ISC"
 }
