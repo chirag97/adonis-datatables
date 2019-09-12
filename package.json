@@ -1,6 +1,6 @@
 {
   "name": "adonis-datatable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this package helps in server side processing of datatables for adonis js framework",
   "main": "index.js",
   "scripts": {
