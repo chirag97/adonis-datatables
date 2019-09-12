@@ -6,4 +6,4 @@ class DatatableController{
     }
 }
 
-module.export = DatatableController;
+module.exports = DatatableController;
